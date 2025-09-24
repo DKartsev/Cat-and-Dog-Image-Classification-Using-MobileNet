@@ -37,4 +37,4 @@
 ## Вывод
 Проект успешно демонстрирует использование предобученных сверточных нейросетей и методов аугментации для бинарной классификации изображений. Тонко настроенная модель MobileNet достигает высокой точности на валидационном и тестовом наборах, что делает её эффективной для различения кошек и собак.
 
-[![Открыть в Colab](https://colab.research.google.com/drive/1tX86zgm-aL3908S8hUsGI5VVMTYqeQXx?usp=sharing)
+[Открыть в Google Colab](https://colab.research.google.com/drive/1tX86zgm-aL3908S8hUsGI5VVMTYqeQXx?usp=sharing)
